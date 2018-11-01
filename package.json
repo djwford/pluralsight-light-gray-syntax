@@ -2,12 +2,12 @@
   "name": "pluralsight-light-gray-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A syntax theme which uses Pluralsight's recommended color palette on a light gray background.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/pluralsight-light-gray-syntax",
+  "repository": "https://github.com/ps-dev/pluralsight-light-gray-syntax-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
