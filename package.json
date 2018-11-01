@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/ps-dev/pluralsight-light-gray-syntax-theme",
+  "repository": "https://github.com/djwford/pluralsight-light-gray-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
