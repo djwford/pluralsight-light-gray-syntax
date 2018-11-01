@@ -1,7 +1,7 @@
 {
   "name": "pluralsight-light-gray-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A syntax theme which uses Pluralsight's recommended color palette on a light gray background.",
   "keywords": [
     "syntax",
